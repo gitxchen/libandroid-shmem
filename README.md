@@ -9,8 +9,11 @@ Based on previous work in https://github.com/pelya/android-shmem.
 Hacking
 =======
 The project can be developed on Android devices using Termux. Clone the repo and run `make` in the `tests/` folder after editing the library or test cases.
+=======
 
 这是一个给Android的共享内存库
+=======
+
 makefile并不能直接使用
 我提供了ARM64/32已经编译完成的库，有需要可以直接下载使用
 
