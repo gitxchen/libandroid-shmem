@@ -7,9 +7,9 @@ The shared memory segments it creates will be automatically destroyed when the c
 Based on previous work in https://github.com/pelya/android-shmem.
 
 Hacking
-=======
+
 The project can be developed on Android devices using Termux. Clone the repo and run `make` in the `tests/` folder after editing the library or test cases.
-=======
+
 
 这是一个给Android的共享内存库
 =======
